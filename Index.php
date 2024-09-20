@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 <h1> GitHub Desktop</h1>
+=======
+<h1> GitHub Desktop tes</h1>
+>>>>>>> Stashed changes
 
 je ne joue pas sur saprking zero 
 Smoky BBQ Lover
